@@ -1,2 +1,2 @@
 // Nama: Gilda Amelia
-// NIM: 3042025085
+// Nim: 3042025085
